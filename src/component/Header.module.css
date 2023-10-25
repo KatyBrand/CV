@@ -1,0 +1,12 @@
+.avatar {
+  width: 50%;
+  height: 50%;
+}
+img {
+  width: 200px;
+}
+.header {
+  background-size: cover;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
